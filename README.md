@@ -1,2 +1,2 @@
 # ejemplo-pull
-practicar pull
+practicar pull para aprender
